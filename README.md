@@ -231,15 +231,5 @@ python code/01_ising_cellular_automata.py
 
 ## Report
 
-Full 15-page report with theory, derivations, and discussion:
+Full report with theory, derivations, and discussion:
 [ising_report.pdf](report/ising_report.pdf)
-
----
-
-## References
-
-1. L. Onsager, Crystal Statistics I, Physical Review 65, 117 (1944)
-2. R. J. Glauber, Time-Dependent Statistics of the Ising Model, J. Math. Phys. 4, 294 (1963)
-3. M. Creutz, Deterministic Ising Dynamics, Annals of Physics 167, 62 (1986)
-4. D. P. Landau and K. Binder, A Guide to Monte Carlo Simulations in Statistical Physics, Cambridge (2014)
-5. R. K. Pathria and P. D. Beale, Statistical Mechanics, 3rd ed., Academic Press (2011)
