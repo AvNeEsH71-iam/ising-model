@@ -1,13 +1,9 @@
-nano ~/ising-model/README.md
-```
 
-Paste this inside nano, then `Ctrl+O` → `Enter` → `Ctrl+X`:
 ```
 # 2D Ising Model — Phase Transition via Cellular Automata
 
-**Course:** Modelling Complex Systems | Module-1
-**Institute:** Indian Institute of Science Education and Research, Mohali
-**Author:** Avneesh Singh | MS23249
+
+**Author:** Avneesh Singh |
 
 ---
 
